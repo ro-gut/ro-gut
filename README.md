@@ -14,7 +14,7 @@ Mathematiker mit Fokus auf datengestützte Lösungen, SQL, Python und Tableau. E
 * **Specialization:** Data Mining, Dashboard Automation, ASO
 
 ### 🎓 Recent Work
-* **Bachelor's Thesis:** Formalization of Turán's Theorem in Lean 4.
+* **Bachelor's Thesis:** Formalization of Turán's Theorem in the programming language Lean 4.
 * **Certifications:** Data Engineer (Foundations), Machine Learning (Stanford).
 
 ---
