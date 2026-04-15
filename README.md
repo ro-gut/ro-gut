@@ -1,16 +1,21 @@
-## Hi there 👋
+# Rodrigo Gutierrez
+**Project Lead | Jr. Data Analyst**
 
-<!--
-**ro-gut/ro-gut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematiker mit Fokus auf datengestützte Lösungen, SQL, Python und Tableau. Erfahren in der Optimierung von Bildungsprodukten und technischem Projektmanagement.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📄 Curriculum Vitae
+* [**Lebenslauf herunterladen (PDF)**](https://github.com/ro-gut/ro-gut/blob/main/Rodrigo_Gutierrez_CV.pdf)
+
+### 🛠 Technical Stack
+* **Languages:** SQL, R, Python (PySpark), JavaScript
+* **Tools:** Tableau, Excel/Google Sheets, MongoDB
+* **Specialization:** Data Mining, Dashboard Automation, ASO
+
+### 🎓 Recent Work
+* **Bachelor's Thesis:** Formalization of Turán's Theorem in Lean 4.
+* **Certifications:** Data Engineer (Foundations), Machine Learning (Stanford).
+
+---
+📫 [gutierrezc.rodrigo@gmail.com](mailto:gutierrezc.rodrigo@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rodrigo8gutierrez)
