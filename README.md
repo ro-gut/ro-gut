@@ -5,7 +5,7 @@ Mathematiker mit Fokus auf datengestützte Lösungen, SQL, Python und Tableau. E
 
 ---
 
-### 📄 Curriculum Vitae
+### 📄 Lebenslauf
 * [**Lebenslauf herunterladen (PDF)**](https://github.com/ro-gut/ro-gut/blob/main/Lebenslauf_Rodrigo_Gutierrez.pdf)
 
 ### 🛠 Technical Stack
