@@ -1,7 +1,7 @@
 # Rodrigo Gutierrez
 **Project Lead | Jr. Data Analyst**
 
-Mathematiker mit Fokus auf datengestützte Lösungen, SQL, Python und Tableau. Erfahren in der Optimierung von Bildungsprodukten und technischem Projektmanagement.
+Mathematiker mit Fokus auf datengestützte Lösungen, SQL, Python und Tableau. Erfahren in der Produktoptimierung und im Projektmanagement.
 
 ---
 
